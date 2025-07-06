@@ -1,0 +1,14 @@
+$dropdown-link-active-bg:           rgb(191, 188, 188);
+// Fonts
+@import url('https://fonts.bunny.net/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import 'bootstrap/scss/bootstrap';
+
+
+.slider-container::-webkit-scrollbar {
+    display: none;
+}
